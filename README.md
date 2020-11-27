@@ -1,2 +1,2 @@
-# HideOrHunt
-Hide or hunt plugin made for bedrock pocketmine
+# Features
+- idk yet
